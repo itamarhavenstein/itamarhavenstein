@@ -1,8 +1,8 @@
 ### Hi there 👋
 Seja bem vindo!!!🔭
 
-Estou focado no momento na stack do ReactJS, no repositório está alguns dos projetos que já trabalhei/trabalho para aprimorar e aprender as tecnologias que envolvem 
-o React, fiz alguns projetos com C#, Java android, Kotlin e uma pasta com exercícios Java que fiz quando comecei a programar.
+:family_man_woman_girl: Estou focado no momento na stack do ReactJS, no repositório está alguns dos projetos que já trabalhei/trabalho para aprimorar e aprender as tecnologias que envolvem 
+o React, fiz alguns projetos com C#, Java android, Kotlin e uma pasta com exercícios Java que fiz quando comecei a programar. :runner:
 
 <!--
 **ItamarHavenstein/itamarhavenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
